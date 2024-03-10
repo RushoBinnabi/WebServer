@@ -1,3 +1,3 @@
 # Web Server
 
-This repository contains all the code for the web server made using the C programming language.
+This repository contains all the code for a simple web server made using the C programming language.
