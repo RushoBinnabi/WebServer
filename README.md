@@ -8,9 +8,9 @@ This repository contains all the code for a simple web server made using the C p
 
 From the `server` folder, type in the following command:
 
-`gcc server.c -o server` then: `./ server`
+`gcc server.c -o server` then: `./server`
 
 
 From the `client` folder, type in the following command:
 
-`gcc client.c -o client` then: `./ client`
+`gcc client.c -o client` then: `./client`
